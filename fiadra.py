@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import random
 
-
+#https://www.reddit.com/r/GAMETHEORY/comments/rug68y/how_do_i_solve_this_problem/
 # players win if they both guess correctly. Plyer 1 knows what the sequence will be in advance, player 2
 # does not.
 
