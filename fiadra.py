@@ -23,7 +23,7 @@ def get_player1_guess(sequence, history):
     return sequence[pos +1]
 
 def get_player2_guess(history, scored):
-    """Figure out what player 2 should guess. Player2 only knows history and whetther he scored last round."""
+    """Figure out what player 2 should guess. Player2 only knows history and whether he scored last round."""
     if not history:
         return 1
     pos = len(history)
